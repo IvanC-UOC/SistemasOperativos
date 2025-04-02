@@ -3,6 +3,24 @@
  Parametro necesario el csv de las unidades. 
 Cabeceras para los csv:
     uo_raiz;uo;ougrupo
+
+CSV
+uo_raiz;uo;ougrupo
+;Parque
+;Parque;Users
+;Parque;Equipos
+Parque;Users;Almacen
+Parque;Users;RRHH
+Parque;Users;Nutricion
+Parque;Users;Finanzas
+Parque;Users;Operaciones
+Parque;Users;Directiva
+Parque;Equipos;Almacen
+Parque;Equipos;RRHH
+Parque;Equipos;Nutricion
+Parque;Equipos;Finanzas
+Parque;Equipos;Operaciones
+Parque;Equipos;Directiva
 #>
 param (
     [string]$csvPath
