@@ -11,7 +11,7 @@ Formato CSV
 Ej:
 Nombre;Apellido;Usuario;Grupo;Correo;RutaOU
 Sandra;Moreno;smoreno;Almacén;sandra.moreno@medicalia.local;OU=Almacen,OU=Users,OU=Parque,DC=medicalia,DC=local
->#
+#>
 
 
 # Ruta del archivo CSV con los usuariosparam (
