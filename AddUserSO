@@ -14,7 +14,8 @@ Sandra;Moreno;smoreno;Almacén;sandra.moreno@medicalia.local;OU=Almacen,OU=Users
 #>
 
 
-# Ruta del archivo CSV con los usuariosparam (
+# Ruta del archivo CSV con los usuarios
+param (
     [string]$csvPath  
 )
 
